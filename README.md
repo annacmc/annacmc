@@ -33,7 +33,7 @@ After more than 8 years as a digital nomad across 42 countries, I've learned tha
 <!-- This section will be automatically updated with your latest blog posts from anna.kiwi -->
 <!-- BLOG-POST-LIST:END -->
 
-**👉 [Read more on anna.kiwi](https://anna.kiwi)**
+**👉 [Read more on anna.kiwi](https://anna.kiwi?utm_source=github&utm_medium=profile&utm_campaign=github_profile)**
 
 ## 🛠️ Tech Stack
 
@@ -61,4 +61,4 @@ After more than 8 years as a digital nomad across 42 countries, I've learned tha
 - 🏠 Remote work that actually works
 - 🍄 Or if you just want to chat about why mycelial networks are the perfect mental model for modern web architecture
 
-*🔗 Find my thoughts on code, connection, and creativity at [anna.kiwi](https://anna.kiwi)*
+*🔗 Find my thoughts on code, connection, and creativity at [anna.kiwi](https://anna.kiwi?utm_source=github&utm_medium=profile&utm_campaign=github_profile)*
