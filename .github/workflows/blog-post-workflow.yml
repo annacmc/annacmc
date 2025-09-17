@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch: # Run workflow manually
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 
 jobs:
   update-readme-with-blog:
@@ -17,5 +17,5 @@ jobs:
           comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://anna.kiwi/feed/"
           max_post_count: 5
-          readtime: true
           date_format: "mmm dd, yyyy"
+          custom_tags: "utm_source=github&utm_medium=blog_feed&utm_campaign=github_profile"
