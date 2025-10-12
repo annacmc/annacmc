@@ -30,11 +30,11 @@ After more than 8 years as a digital nomad across 42 countries, I've learned tha
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Replaced My Boyfriend: A Story About Context in Machine Learning](https://anna.kiwi/blog/work-systems/ai-replaced-my-boyfriend-a-story-about-context-in-machine-learning/)
 - [Are we underestimating junior developers?](https://anna.kiwi/blog/work-systems/are-we-underestimating-junior-developers/)
 - [A short memory from la Amazonía](https://anna.kiwi/blog/places-people/a-short-memory-from-la-amazonia/)
 - [I Am an Engineer](https://anna.kiwi/blog/work-systems/i-am-an-engineer/)
 - [Cocina Oaxaqueña](https://anna.kiwi/blog/places-people/cocina-oaxaquena/)
-- [Living in Wonderment](https://anna.kiwi/blog/personal-growth/living-in-wonder/)
 <!-- BLOG-POST-LIST:END -->
 
 **👉 [Read more on anna.kiwi](https://anna.kiwi?utm_source=github&utm_medium=profile&utm_campaign=github_profile)**
