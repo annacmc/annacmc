@@ -30,11 +30,11 @@ After more than 8 years as a digital nomad across 42 countries, I've learned tha
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A mostly-metaphoric MCP glossary](https://anna.kiwi/blog/work-systems/a-mostly-metaphoric-mcp-glossary/)
 - [From Geocities to GPT](https://anna.kiwi/blog/work-systems/from-geocities-to-gpt/)
 - [Three AI customisation concepts](https://anna.kiwi/blog/work-systems/explaining-ai-metaphors/)
 - [AI Replaced My Boyfriend: A Story About Context in Machine Learning](https://anna.kiwi/blog/work-systems/ai-replaced-my-boyfriend-a-story-about-context-in-machine-learning/)
 - [Are we underestimating junior developers?](https://anna.kiwi/blog/work-systems/are-we-underestimating-junior-developers/)
-- [A short memory from la Amazonía](https://anna.kiwi/blog/places-people/a-short-memory-from-la-amazonia/)
 <!-- BLOG-POST-LIST:END -->
 
 **👉 [Read more on anna.kiwi](https://anna.kiwi?utm_source=github&utm_medium=profile&utm_campaign=github_profile)**
