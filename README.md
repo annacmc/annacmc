@@ -30,11 +30,11 @@ After more than 8 years as a digital nomad across 42 countries, I've learned tha
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI &amp; WordPress at Enqueue](https://anna.kiwi/blog/work-systems/ai-wordpress-at-enqueue/)
-- [Bridging Vibe Coding to Production with MCP](https://anna.kiwi/blog/work-systems/bridging-vibe-coding-to-production-with-mcp/)
-- [A mostly-metaphoric MCP glossary](https://anna.kiwi/blog/work-systems/a-mostly-metaphoric-mcp-glossary/)
-- [From Geocities to GPT](https://anna.kiwi/blog/work-systems/from-geocities-to-gpt/)
-- [Three AI customisation concepts](https://anna.kiwi/blog/work-systems/explaining-ai-metaphors/)
+- [AI &amp; WordPress at Enqueue](https://blog.anna.kiwi/blog/work-systems/ai-wordpress-at-enqueue/)
+- [Bridging Vibe Coding to Production with MCP](https://blog.anna.kiwi/blog/work-systems/bridging-vibe-coding-to-production-with-mcp/)
+- [A mostly-metaphoric MCP glossary](https://blog.anna.kiwi/blog/work-systems/a-mostly-metaphoric-mcp-glossary/)
+- [From Geocities to GPT](https://blog.anna.kiwi/blog/work-systems/from-geocities-to-gpt/)
+- [Three AI customisation concepts](https://blog.anna.kiwi/blog/work-systems/explaining-ai-metaphors/)
 <!-- BLOG-POST-LIST:END -->
 
 **👉 [Read more on anna.kiwi](https://anna.kiwi?utm_source=github&utm_medium=profile&utm_campaign=github_profile)**
