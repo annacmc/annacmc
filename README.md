@@ -30,11 +30,11 @@ After more than 8 years as a digital nomad across 42 countries, I've learned tha
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My book has a publish date &lpar;And I need your help.&rpar;](https://blog.anna.kiwi/blog/my-book-has-a-publish-date-and-i-need-your-help/)
 - [Building Evals for an AI Memoir Writing Coach](https://blog.anna.kiwi/blog/work-systems/building-evals-for-an-ai-memoir-writing-coach/)
 - [A Bridge Between Soil and Silicon](https://blog.anna.kiwi/blog/deep-thinking/a-bridge-between-soil-and-silicon/)
 - [AI &amp; WordPress at Enqueue](https://blog.anna.kiwi/blog/work-systems/ai-wordpress-at-enqueue/)
 - [Bridging Vibe Coding to Production with MCP](https://blog.anna.kiwi/blog/work-systems/bridging-vibe-coding-to-production-with-mcp/)
-- [A mostly-metaphoric MCP glossary](https://blog.anna.kiwi/blog/work-systems/a-mostly-metaphoric-mcp-glossary/)
 <!-- BLOG-POST-LIST:END -->
 
 **👉 [Read more on anna.kiwi](https://anna.kiwi?utm_source=github&utm_medium=profile&utm_campaign=github_profile)**
